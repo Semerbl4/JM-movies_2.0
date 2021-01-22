@@ -1,4 +1,4 @@
-# https://movies-app-zthfngv22.vercel.app/ - Vercel link to the App
+
 
 # Getting Started with Create React App
 
